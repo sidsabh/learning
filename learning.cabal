@@ -68,10 +68,11 @@ executable learning
 
     -- Other library packages from which modules are imported.
     build-depends:    base ^>=4.17
-                    , text
+                    -- , text
+                    -- , containers
                     , random
-                    , time
-                    , parallel
+                    -- , time
+                    -- , parallel
 
 
     -- Directories containing source files.
