@@ -4,6 +4,7 @@
 #include <string>
 #include <cctype>
 #include <algorithm>
+#include <cstring>
 
 #define LAMRON 100000
 

@@ -1,5 +1,4 @@
-module Main where
-
+module Mom where
 -- import Debug.Trace ( traceShowId ) -- super useful like id fcn
 import Data.List(sort)
 import Control.Exception ( assert )
